@@ -2734,8 +2734,16 @@
           },
           "name" : "Duke Blue Devils",
           "state" : "North Carolina"
-        },
-                    "contractLength" : "3",
+        }
+        {
+			    "abbreviation": "GT",
+				  "prestige": "60",
+				  "hexColor": "#B3A369",
+          "rivalryNames": {
+          
+          },
+          "offCoordinator": {
+            "contractLength" : "3",
             "startYear" : "2023",
             "age" : "37",
             "cumulativePrestige" : "25",
@@ -2763,14 +2771,10 @@
             "name" : "Brent Key",
             "contractYear" : "1"
           },
+          {
           "name" : "Georgia Tech Yellow Jackets",
           "state" : "Georgia"
         },
-        
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-
         {
           "abbreviation" : "UMD",
           "prestige" : "45",
@@ -2827,19 +2831,6 @@
           "name" : "Maryland Terrapins",
           "state" : "Maryland"
         }
-        },
-          "abbreviation" : "RUT",
-          "prestige" : "40",
-          "hexColor" : "#CC0033",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2023",
-            "age" : "49",
-            "cumulativePrestige" : "25",
-
       ],
       "confFullName" : "Atlantic Coast Conference",
       "confPrestige" : "75",
@@ -3349,8 +3340,28 @@
           },
           "name" : "Syracuse Orange",
           "state" : "New York"
-      ],
-                "rival" : [
+      },
+					"abbreviation": "RUT",
+					"prestige": "40",
+					"hexColor": "#CC0033",
+          "rivalryNames": {
+          
+          },
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2023",
+						"age": "49",
+						"cumulativePrestige": "0",
+						"homeState": "Washington DC",
+						"ratPot": "62",
+						"hometown": "Dupont Circle",
+						"ratTalent": "66",
+						"baselinePrestige": "55",
+						"coachingAbility": "64",
+						"name": "Kirk Ciarrocca",
+						"contractYear": "0"
+					},
+          "rival": [
             "CUSE"
           ],
           "defCoordinator" : {
