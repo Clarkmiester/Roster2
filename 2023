@@ -2734,12 +2734,12 @@
           },
           "name" : "Duke Blue Devils",
           "state" : "North Carolina"
-        }
-        {
-			    "abbreviation": "GT",
-				  "prestige": "60",
-				  "hexColor": "#B3A369",
-          "rivalryNames": {
+        },
+	{
+         "abbreviation": "GT",
+	 "prestige": "60",
+         "hexColor": "#B3A369",
+         "rivalryNames": {
           
           },
           "offCoordinator": {
@@ -2771,7 +2771,6 @@
             "name" : "Brent Key",
             "contractYear" : "1"
           },
-          {
           "name" : "Georgia Tech Yellow Jackets",
           "state" : "Georgia"
         },
