@@ -3285,6 +3285,7 @@
           "name" : "West Virginia Mountaineers",
           "state" : "West Virginia"
         },
+	{
           "abbreviation" : "CUSE",
           "prestige" : "45",
           "hexColor" : "#D44500",
@@ -3340,26 +3341,27 @@
           "name" : "Syracuse Orange",
           "state" : "New York"
       },
-					"abbreviation": "RUT",
-					"prestige": "40",
-					"hexColor": "#CC0033",
+      {
+	  "abbreviation": "RUT",
+	  "prestige": "40",
+	  "hexColor": "#CC0033",
           "rivalryNames": {
           
           },
-					"offCoordinator": {
-						"contractLength": "3",
-						"startYear": "2023",
-						"age": "49",
-						"cumulativePrestige": "0",
-						"homeState": "Washington DC",
-						"ratPot": "62",
-						"hometown": "Dupont Circle",
-						"ratTalent": "66",
-						"baselinePrestige": "55",
-						"coachingAbility": "64",
-						"name": "Kirk Ciarrocca",
-						"contractYear": "0"
-					},
+	  "offCoordinator": {
+	   "contractLength": "3",
+	   "startYear": "2023",
+	   "age": "49",
+	   "cumulativePrestige": "0",
+	   "homeState": "Washington DC",
+	   "ratPot": "62",
+           "hometown": "Dupont Circle",
+	   "ratTalent": "66",
+	   "baselinePrestige": "55",
+           "coachingAbility": "64",
+	   "name": "Kirk Ciarrocca",
+	   "contractYear": "0"
+	  },
           "rival": [
             "CUSE"
           ],
@@ -3395,6 +3397,7 @@
           "name" : "Rutgers Scarlet Knights",
           "state" : "New Jersey"
         }
+       ],
       "confFullName" : "Big East Conference",
       "confPrestige" : "75",
       "confName" : "BEC"
