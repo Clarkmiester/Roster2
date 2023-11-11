@@ -77,7 +77,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "90",
+          "prestige" : "95",
           "hexColor" : "#BA0C2F",
           "rivalryNames" : {
 
@@ -97,7 +97,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "TENN"
+            "UF"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -153,7 +153,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "UF"
+            "TENN"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -209,7 +209,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "LSU"
+            "UGA"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -265,7 +265,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "UGA"
+            "LSU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -588,7 +588,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OSU",
-          "prestige" : "87",
+          "prestige" : "90",
           "hexColor" : "#BB0000",
           "rivalryNames" : {
 
@@ -644,7 +644,7 @@
         },
         {
           "abbreviation" : "MICH",
-          "prestige" : "85",
+          "prestige" : "88",
           "hexColor" : "#00274C",
           "rivalryNames" : {
 
@@ -700,7 +700,7 @@
         },
         {
           "abbreviation" : "PENN",
-          "prestige" : "79",
+          "prestige" : "82",
           "hexColor" : "#0033A0",
           "rivalryNames" : {
 
@@ -1267,7 +1267,7 @@
         },
         {
           "abbreviation" : "UT",
-          "prestige" : "78",
+          "prestige" : "83",
           "hexColor" : "#BF5700",
           "rivalryNames" : {
 
